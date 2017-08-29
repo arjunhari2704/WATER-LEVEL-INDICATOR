@@ -27,3 +27,5 @@ You can see resistors (R1, R2, R3) at the base of each transistor, which is used
 Same phenomenon happens when water level reaches to Point B. As soon as water level reaches to Point B, a positive voltage gets applied to the Transistor Q2, it gets ON and current started flowing through YELLOW LED, and LED glows. With same principle, GREEN LED glow when water level reaches to Point C.And finally Buzzer beeps when water level reaches to D.
  
 Note that Left most wire in the tank must be lengthier than other four wires in the tanks, because this is the wire which is connected to positive voltage.
+
+[![image](https://cdn2.iconfinder.com/data/icons/snipicons/5000/home-32.png)](https://arjunhari2704.github.io/)
